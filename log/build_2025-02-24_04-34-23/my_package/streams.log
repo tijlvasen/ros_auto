@@ -1,0 +1,23 @@
+[0.128s] Invoking command in '/home/tijl/dev_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tijl/dev_ws/build/my_package -- -j4 -l4
+[0.708s] Invoked command in '/home/tijl/dev_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/tijl/dev_ws/build/my_package -- -j4 -l4
+[0.888s] Invoking command in '/home/tijl/dev_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tijl/dev_ws/build/my_package
+[1.004s] -- Install configuration: ""
+[1.012s] -- Execute custom install script
+[1.020s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/launch/listener.launce.py
+[1.140s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/launch/talker.launce.py
+[1.260s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+[1.372s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+[1.476s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/environment/ament_prefix_path.sh
+[1.580s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+[1.704s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/environment/path.sh
+[1.820s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/environment/path.dsv
+[1.940s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/local_setup.bash
+[2.056s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/local_setup.sh
+[2.156s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/local_setup.zsh
+[2.272s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/local_setup.dsv
+[2.388s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/package.dsv
+[2.500s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/ament_index/resource_index/packages/my_package
+[2.620s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+[2.732s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+[2.848s] -- Symlinking: /home/tijl/dev_ws/install/my_package/share/my_package/package.xml
+[2.996s] Invoked command in '/home/tijl/dev_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/tijl/dev_ws/build/my_package
